@@ -12,7 +12,7 @@ namespace DiceGame
             //mängija, kes viskab rohkem, ongi mängu võitja;
             //*täringuid visatakse kolm korda;
             //programm kuulutab võitja;
-            //viiki ei saa jääda kuna 3 mängu;
+            //Lõpp tulemus ei saa viiki jääda kuna 3 mängu; 
 
             Random rnd = new Random();
 
